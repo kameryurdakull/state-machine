@@ -1,0 +1,17 @@
+{
+  "name": "com.kameryurdakull.state-machine",
+  "version": "1.0.0",
+  "displayName": "State Machine",
+  "description": "Small, testable finite state machine with explicit lifecycle and cancellation for Unity.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Kamer Yurdakull"
+  },
+  "samples": [
+    {
+      "displayName": "Round Flow",
+      "description": "A small event-driven round flow using a MonoBehaviour host.",
+      "path": "Samples~/RoundFlow"
+    }
+  ]
+}
