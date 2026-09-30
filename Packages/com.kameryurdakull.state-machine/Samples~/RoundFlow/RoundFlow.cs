@@ -1,10 +1,10 @@
 using System;
 using System.Threading;
-using Kamer.StateMachine;
+using BlackProcess.StateMachine;
 using UnityEngine;
-using StateMachineCore = Kamer.StateMachine.StateMachine;
+using StateMachineCore = BlackProcess.StateMachine.StateMachine;
 
-namespace Kamer.StateMachine.Samples.RoundFlow
+namespace BlackProcess.StateMachine.Samples.RoundFlow
 {
     public enum RoundPhase
     {

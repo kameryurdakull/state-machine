@@ -3,7 +3,7 @@
 A small state machine for Unity with explicit `Tick` / `FixedTick` calls and a cancellation token for each active state. The runtime assembly has no external dependencies.
 
 ```csharp
-var machine = new Kamer.StateMachine.StateMachine();
+var machine = new BlackProcess.StateMachine.StateMachine();
 machine.ChangeState(new MyState());
 machine.Tick();       // Unity Update
 machine.FixedTick();  // Unity FixedUpdate

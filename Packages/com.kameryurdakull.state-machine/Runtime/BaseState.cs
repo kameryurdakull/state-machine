@@ -1,6 +1,6 @@
 using System.Threading;
 
-namespace Kamer.StateMachine
+namespace BlackProcess.StateMachine
 {
     /// <summary>Override only the lifecycle methods needed by a state.</summary>
     public abstract class BaseState : IState

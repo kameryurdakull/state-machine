@@ -1,7 +1,7 @@
 using System;
 using System.Threading;
 
-namespace Kamer.StateMachine
+namespace BlackProcess.StateMachine
 {
     /// <summary>Runs one state at a time. The owner drives Tick and FixedTick and disposes the machine.</summary>
     public sealed class StateMachine : IDisposable

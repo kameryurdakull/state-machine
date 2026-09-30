@@ -26,9 +26,9 @@ Bu URL, paket dosyaları GitHub'a gönderildikten sonra çalışır. Kararlı s�
 
 ```csharp
 using System.Threading;
-using Kamer.StateMachine;
+using BlackProcess.StateMachine;
 using UnityEngine;
-using StateMachineCore = Kamer.StateMachine.StateMachine;
+using StateMachineCore = BlackProcess.StateMachine.StateMachine;
 
 public sealed class PlayerStateHost : MonoBehaviour
 {

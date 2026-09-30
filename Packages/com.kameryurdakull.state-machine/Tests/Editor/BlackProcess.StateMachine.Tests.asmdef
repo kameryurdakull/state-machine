@@ -1,7 +1,7 @@
 {
-  "name": "Kamer.StateMachine.Tests",
-  "rootNamespace": "Kamer.StateMachine.Tests",
-  "references": ["Kamer.StateMachine"],
+  "name": "BlackProcess.StateMachine.Tests",
+  "rootNamespace": "BlackProcess.StateMachine.Tests",
+  "references": ["BlackProcess.StateMachine"],
   "includePlatforms": ["Editor"],
   "optionalUnityReferences": ["TestAssemblies"],
   "overrideReferences": true,

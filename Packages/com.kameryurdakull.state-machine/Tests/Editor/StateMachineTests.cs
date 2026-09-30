@@ -2,9 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Threading;
 using NUnit.Framework;
-using StateMachineCore = Kamer.StateMachine.StateMachine;
+using StateMachineCore = BlackProcess.StateMachine.StateMachine;
 
-namespace Kamer.StateMachine.Tests
+namespace BlackProcess.StateMachine.Tests
 {
     public sealed class StateMachineTests
     {
